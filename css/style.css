@@ -1,0 +1,118 @@
+* {
+  font-family: "Alfa Slab One", cursive;
+  font-family: "Source Code Pro", monospace;
+}
+
+.name {
+  display: inline;
+  margin: 2rem;
+}
+
+.carousel .carousel-indicators button {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+.active button {
+  background-color: rgb(98, 87, 87);
+}
+
+.finalLogo {
+  width: 15%;
+}
+
+.carousel-inner img {
+  width: 100% !important;
+  height: 75vh;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.card img {
+  width: 62%;
+}
+
+.card {
+  padding: 1rem;
+  border: none;
+  background-color: transparent !important;
+  margin: 1rem;
+}
+
+.card img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  height: 200px;
+}
+
+.fa-solid {
+  padding: 1rem;
+}
+
+header {
+  background-color: #b9526f;
+}
+
+main {
+  background-color: #e2888d;
+}
+
+footer {
+  background-color: #68a8a6;
+  color: white;
+}
+
+section {
+  background-color: #fcf0d7;
+}
+
+.video {
+  margin: 2rem;
+}
+
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+.accordion {
+  background-color: green;
+}
+
+.carousel-item img {
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.video {
+  margin: 2rem;
+}
+
+.images img {
+  width: 40%;
+}
+
+.screenshot {
+  padding: 2rem;
+}
+
+.facts {
+  padding: 3rem;
+}
+
+.pictures img {
+  -o-object-fit: contain;
+     object-fit: contain;
+  height: 100%;
+  width: 200px;
+}
+
+.posters iframe {
+  margin: 0 auto;
+  padding: 2rem;
+  width: 100%;
+  /* Reset default border */
+  height: 30rem;
+}
+/*# sourceMappingURL=style.css.map */
